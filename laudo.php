@@ -211,9 +211,9 @@
 
 			<div class="evidencias">
 				<table border="1">
-					<tr><td>(GERENCIADOR DE TAREFAS - DESENPENHO)task.exe</td></tr>
-					<tr><td>(GeRENCIADO DE DISCO)diskmgmt.mcs</td></tr>
-					<tr><td>painel</td></tr>				
+					<tr><td>Monitor de Recursos(perfmon.exe)</td></tr>
+					<tr><td>Gerenciador de Disco(diskmgmt.exe)</td></tr>
+					<tr><td>Gerenciador de Tarefas(taskmgr.exe)</td></tr>				
 				</table>
 
 			</div>
